@@ -2,4 +2,5 @@ pandas
 numpy
 flask
 pyyaml
+dill
 -e .
